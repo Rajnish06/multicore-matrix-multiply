@@ -1,0 +1,6 @@
+######################################
+make compile: compile all programs
+make matrix_mul : run matrix multiplication
+
+make clean : clean directory
+######################################
